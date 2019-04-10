@@ -1,5 +1,5 @@
 # Cryptoassets-Algorithmic-Trading
-Simple backtest of dual moving average crossover algo trading strategy with matplotlib visualisation
+Simple backtest of dual moving average crossover algo trading strategy with matplotlib visualisation. Outcome, performance, value of portfolio, buys and sells are visualised via matploblib.  
 
 To run the backtest:
 1. Follow the installation [instructions](https://enigma.co/catalyst/install.html).
