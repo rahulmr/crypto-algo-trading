@@ -1,4 +1,4 @@
-# Cryptoassets-Algorithmic-Trading
+# Cryptoassets Algorithmic Trading
 
 Simple backtest of dual moving average crossover algo trading strategy with matplotlib visualisation. Outcome, performance, value of portfolio, buys and sells are visualised via matploblib.
 
